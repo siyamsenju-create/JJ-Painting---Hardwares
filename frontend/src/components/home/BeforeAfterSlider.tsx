@@ -93,7 +93,7 @@ export default function BeforeAfterSlider() {
         >
           {/* Background (After) */}
           <Image
-            src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&q=80&w=1600"
+            src="/before-after/after.jpeg"
             alt="Painted Wall After"
             fill
             className="object-cover"
@@ -105,7 +105,7 @@ export default function BeforeAfterSlider() {
             style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=1600"
+              src="/before-after/before.jpeg"
               alt="Raw Wall Before"
               fill
               className="object-cover"

@@ -5,15 +5,8 @@ import { motion } from "framer-motion";
 import SectionWrapper from "../common/SectionWrapper";
 import { Camera } from "lucide-react";
 
-// Placeholder project images from Unsplash representing remodeling/painting
-const projects = [
-  "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1628744448840-55bdb2497bd4?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
-];
+// Actual project images from the physical store portfolio
+const projects = Array.from({ length: 20 }, (_, i) => `/services/service-${i + 1}.jpeg`);
 
 const staggerContainer = {
   hidden: { opacity: 0 },
