@@ -1,3 +1,4 @@
+<img width="1326" height="801" alt="Screenshot 2026-04-19 at 1 03 34 PM" src="https://github.com/user-attachments/assets/b049104d-4b94-40d1-a93f-5c190756e781" />
 # 🛠️ JJ Painting & Hardwares
 
 A modern web application for a painting and hardware business, designed to showcase services, products, and enable customer interaction.
@@ -14,7 +15,10 @@ A modern web application for a painting and hardware business, designed to showc
 
 - 🏠 Beautiful and responsive homepage
 - 🎨 Service showcase (Painting, Hardware supply, etc.)
-- 🛒 Product listing section
+- 🛒 Product listing section![Uploading Screenshot 2026-04-19 at 1.02.11 PM.png…]()
+<img width="1328" height="800" alt="Screenshot 2026-04-19 at 1 02 40 PM" src="https://github.com/user-attachments/assets/28a239bf-3b92-484b-b58f-e1553163e6c1" />
+<img width="1326" height="795" alt="Screenshot 2026-04-19 at 1 03 11 PM" src="https://github.com/user-attachments/assets/f067afc2-e151-43f4-88b1-8ec466b11556" />
+
 - 📞 Contact & inquiry system
 - 🔐 User authentication (if implemented)
 - ⚡ Fast and smooth UI/UX
