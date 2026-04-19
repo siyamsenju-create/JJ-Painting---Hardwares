@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-04-19 at 1.01.04 PM.png…]()
+<img width="1329" height="798" alt="Screenshot 2026-04-19 at 1 01 04 PM" src="https://github.com/user-attachments/assets/69a52a8d-2dc4-41de-a223-c32f93500ea6" />
 
 # 🛠️ JJ Painting & Hardwares
 
